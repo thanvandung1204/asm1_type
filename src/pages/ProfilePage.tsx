@@ -31,7 +31,7 @@ const ProfilePage = () => {
               <div className="ml-2 truncate">dungmothaikhongbon@gmail.com</div>
             </div>
             <div className="flex items-center my-1">
-              <a className="w-6 text-gray-700 hover:text-orange-600" aria-label="Visit TrendyMinds YouTube" href target="_blank"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" className="h-4">
+              <a className="w-6 text-gray-700 hover:text-orange-600" aria-label="Visit TrendyMinds YouTube"  target="_blank"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" className="h-4">
                   <path fill="currentColor" d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z">
                   </path>
                 </svg>
@@ -39,7 +39,7 @@ const ProfilePage = () => {
               <div>Dũng Chanel</div>
             </div>
             <div className="flex items-center my-1">
-              <a className="w-6 text-gray-700 hover:text-orange-600" aria-label="Visit TrendyMinds Facebook" href target="_blank"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" className="h-4">
+              <a className="w-6 text-gray-700 hover:text-orange-600" aria-label="Visit TrendyMinds Facebook"  target="_blank"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" className="h-4">
                   <path fill="currentColor" d="m279.14 288 14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z">
                   </path>
                 </svg>
@@ -47,7 +47,7 @@ const ProfilePage = () => {
               <div>Thân Văn Dũng</div>
             </div>
             <div className="flex items-center my-1">
-              <a className="w-6 text-gray-700 hover:text-orange-600" aria-label="Visit TrendyMinds Twitter" href target="_blank"><svg className="h-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+              <a className="w-6 text-gray-700 hover:text-orange-600" aria-label="Visit TrendyMinds Twitter"  target="_blank"><svg className="h-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
                   <path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z">
                   </path>
                 </svg>
@@ -71,7 +71,7 @@ const ProfilePage = () => {
               <div className="ml-2">Tailwind CSS</div>
             </div>
             <div className="flex items-center my-1">
-              <a className="w-6 text-gray-700 hover:text-orange-600" aria-label="Visit TrendyMinds YouTube" href target="_blank"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 515" className="h-4">
+              <a className="w-6 text-gray-700 hover:text-orange-600" aria-label="Visit TrendyMinds YouTube"  target="_blank"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 515" className="h-4">
                   <path d="M193.918,208.369c-4.729-10.456-6.849-22.652-3.236-33.731c3.612-11.327,11.703-20.413,19.794-28.878
   c22.525-22.531,50.285-39.085,72.316-61.986c12.197-12.573,22.278-27.634,25.762-44.937c2.864-12.695,1.496-25.764-1.117-38.337
   c11.7,13.319,15.559,32.363,12.197,49.541c-3.608,19.292-14.316,36.344-26.886,51.031c-10.081,11.827-21.659,22.282-33.731,31.993
@@ -115,7 +115,7 @@ const ProfilePage = () => {
               <div className="ml-2">Java</div>
             </div>
             <div className="flex items-center my-1">
-              <a className="w-6 text-gray-700 hover:text-orange-600" aria-label="Visit TrendyMinds Facebook" href target="_blank">
+              <a className="w-6 text-gray-700 hover:text-orange-600" aria-label="Visit TrendyMinds Facebook"  target="_blank">
                 <svg viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink">
                   <g stroke="none" strokeWidth={1} fill="none" fillRule="evenodd">
                     <g id="Logo" transform="translate(0.000000, -144.000000)">
@@ -132,7 +132,7 @@ const ProfilePage = () => {
               <div className="ml-2">Andoid</div>
             </div>
             <div className="flex items-center my-1">
-              <a className="w-6 text-gray-700 hover:text-orange-600" aria-label="Visit TrendyMinds Twitter" href target="_blank">
+              <a className="w-6 text-gray-700 hover:text-orange-600" aria-label="Visit TrendyMinds Twitter"  target="_blank">
                 <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M17 7.82959L18.6965 9.35641C20.239 10.7447 21.0103 11.4389 21.0103 12.3296C21.0103 13.2203 20.239 13.9145 18.6965 15.3028L17 16.8296" stroke="#1C274C" strokeWidth="1.5" strokeLinecap="round" />
                   <path d="M13.9868 5L12.9934 8.70743M11.8432 13L10.0132 19.8297" stroke="#1C274C" strokeWidth="1.5" strokeLinecap="round" />
